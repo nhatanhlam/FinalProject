@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "834059983805",
+    "project_id": "ecommerce-main-9bb15",
+    "storage_bucket": "ecommerce-main-9bb15.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:834059983805:android:eba2543b6d4a3b34d450d4",
+        "android_client_info": {
+          "package_name": "com.example.plant_shop"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCMrZWzpJerJKSQWTBVBwbgnB8AHdfcbrU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
